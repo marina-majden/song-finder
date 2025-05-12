@@ -7,7 +7,8 @@
 
 A responsive web application for discovering music tracks, artists, and albums using the iTunes Search API.
 
-![Song Finder Screenshot](screenshot-placeholder.png) <!-- Replace with actual screenshot path -->
+## Demo:
+[Song Finder](https://song-finder-itunes.netlify.app/)
 
 ## Features ✨
 
@@ -21,7 +22,7 @@ A responsive web application for discovering music tracks, artists, and albums u
 ## Installation & Usage 🚀
 
 1. Clone the repository:
-``` git clone https://github.com/your-username/song-finder.git ```
+``` git clone https://github.com/marina-majden/song-finder.git ```
 2. Open index.html in any modern web browser
 3. Enter search terms (artist, song, or album) and click "Search"
 
